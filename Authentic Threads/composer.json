@@ -1,0 +1,17 @@
+{
+    "name": "authentic-threads",
+    "description": "Jersey website still finding its form",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Clark Bolin",
+            "email": "clark.bolin@tufts.edu"
+        }
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
+    }
+}
