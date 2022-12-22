@@ -154,6 +154,7 @@
     foreach ($events as $game) {
         if ($game["dateEvent"] < $mostRecentDate) {
             $toDisplay[] = $game['strHomeTeam'];
+            echo $game['strHomeTeam'];
             $toDisplay[] = $game['strAwayTeam'];
         }
     }
