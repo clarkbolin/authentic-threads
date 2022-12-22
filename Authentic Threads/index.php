@@ -84,7 +84,7 @@
     </div>
     <!-- END NAV BAR -->
 
-    <h2>Since we know you love soccer, here are the recent scores and upcoming games for the 2022 FIFA World Cup!</h2>
+    <h2>Here are all of the recent world cup scores biotchhhhh!</h2>
 
     <?php
     $curl = curl_init();
@@ -195,7 +195,6 @@
         echo "</tr></table>"; // end the table
     }
     ?>
-    YOOOOOOOOOOOOOOO this shit works
 </body>
 
 </html>
