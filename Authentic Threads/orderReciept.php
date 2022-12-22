@@ -136,7 +136,7 @@
 
     ?>
 
-    <form action="view_orders.php">
+    <form action="https://authentic-threads.herokuapp.com/view_orders.php">
 
 
         <div class=bar>

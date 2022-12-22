@@ -75,7 +75,7 @@
         </ul>
     </div>
 
-<form action="view_orders.php" onsubmit = 'return validate()'>
+<form action="https://authentic-threads.herokuapp.com/view_orders.php" onsubmit = 'return validate()'>
 
 <div class='bar'>
 

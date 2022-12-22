@@ -82,7 +82,7 @@
 
 
     <?php
-    echo "<form action='https://eyals.sgedu.site/final/orderReciept.php' onsubmit = 'return validate()'>";
+    echo "<form action='https://authentic-threads.herokuapp.com/orderReciept.php' onsubmit = 'return validate()'>";
 
     $username = $_GET['username'];
     $password = $_GET['password'];

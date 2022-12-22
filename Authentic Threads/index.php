@@ -152,7 +152,7 @@
     $mostRecentDate = date('Y-m-d', $maxTimestamp);
 
     foreach ($events as $game) {
-        if ($game["dateEvent"] == $mostRecentDate) {
+        if ($game["dateEvent"] < $mostRecentDate) {
             $toDisplay[] = $game['strHomeTeam'];
             $toDisplay[] = $game['strAwayTeam'];
         }
